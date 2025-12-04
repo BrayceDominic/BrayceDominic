@@ -59,8 +59,7 @@ I specialize in **web, mobile apps, APIs, and system architecture**.
 
 ---
 
-# 🌎 Featured Live Projects  
-*(Replace the image URLs with your screenshots for thumbnails)*
+# 🌎 Featured Live Projects 
 
 ---
 
@@ -120,7 +119,7 @@ A modern online pharmacy & medical product app.
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/BrayceDominic" target="_blank">
+<a href="linkedin.com/in/brayce-dominic-9652a8263" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
