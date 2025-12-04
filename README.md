@@ -67,7 +67,7 @@ I specialize in **web, mobile apps, APIs, and system architecture**.
 ### 🔹 **IFAKARA CHILDREN HEALING HANDS**  
 A modern NGO website for programs, donations & outreach.  
 <a href="https://www.ichh.or.tz/">
-  <img src="download2.png" width="70%" />
+  <img src="Ifakara.png" width="70%" />
 </a>  
 🔗 **Live:** https://www.ichh.or.tz/
 
@@ -94,7 +94,7 @@ A professional food ordering and menu listing system.
 ### 🔹 **Mwipopo Medical Shop**  
 A modern online pharmacy & medical product app.  
 <a href="https://mwipopomedicalshop.vercel.app/">
-<img src="download3.png" width="70" />
+<img src="Mwipopo.png" width="70" />
 </a>  
 🔗 **Live:** https://mwipopomedicalshop.vercel.app/
 
