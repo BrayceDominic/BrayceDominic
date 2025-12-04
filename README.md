@@ -1,7 +1,7 @@
 <!-- PREMIUM GITHUB PROFILE README FOR BRAYCE DOMINIC -->
 
 <h1 align="center">👋 Hi, I'm <strong>Brayce Dominic</strong></h1>
-<h3 align="center">Full Stack Engineer | Systems Designer | Software Craftsman</h3>
+<h3 align="center">Full Stack Engineer | Mobile App Developer | Systems Designer</h3>
 
 <p align="center">
   🌍 Dar es Salaam, Tanzania &nbsp;•&nbsp;
@@ -12,30 +12,39 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full Stack Engineer** with strong experience in crafting modern web applications, scalable backend systems, cloud-ready architectures, and real-world digital products.  
+I'm a passionate **Full Stack & Mobile App Developer** who builds scalable backend systems, modern frontend apps, and real-world digital products.  
+I specialize in **web, mobile apps, APIs, and system architecture**.
 
-I build **clean, fast, secure, production-ready software** using both frontend and backend technologies — turning ideas into powerful solutions.
-
-💡 *“Great engineering is not about code — it’s about solving real problems with clarity and innovation.”*
+💡 *“Great engineering is solving real problems with clarity and innovation.”*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
-### ⚙️ Backend
+### 📱 Mobile App Development
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🐍 Python & Frameworks
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🛢 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,38 +52,50 @@ I build **clean, fast, secure, production-ready software** using both frontend a
 ![SQLite](https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧠 Systems & Architecture
-- Systems Design  
-- REST API Development  
-- Authentication & Security  
-- Database Modeling  
-- Cloud Deployments  
-- Realtime Apps (WebSockets)  
+### 🔧 Tools & Testing
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 🌎 Featured Projects
+# 🌎 Featured Live Projects  
+*(Replace the image URLs with your screenshots for thumbnails)*
+
+---
 
 ### 🔹 **IFAKARA CHILDREN HEALING HANDS**  
-A real-world NGO website for accessing programs, donations & community support.  
+A modern NGO website for programs, donations & outreach.  
+<a href="https://www.ichh.or.tz/">
+  <img src="https://placehold.co/600x400?text=Project+Thumbnail" width="70%" />
+</a>  
 🔗 **Live:** https://www.ichh.or.tz/
 
 ---
 
 ### 🔹 **Zubeda Sakuru Portfolio**  
-A professional personal brand website for an entrepreneur.  
+A branded digital presence for an entrepreneur.  
+<a href="https://zubedasakuru.vercel.app/">
+  <img src="https://placehold.co/600x400?text=Project+Thumbnail" width="70%" />
+</a>  
 🔗 **Live:** https://zubedasakuru.vercel.app/
 
 ---
 
 ### 🔹 **Babra’s Kitchen**  
-A modern online food order and menu listing system.  
+A professional food ordering and menu listing system.  
+<a href="https://babraskitchen.42web.io/">
+  <img src="https://placehold.co/600x400?text=Project+Thumbnail" width="70%" />
+</a>  
 🔗 **Live:** https://babraskitchen.42web.io/
 
 ---
 
 ### 🔹 **Mwipopo Medical Shop**  
-An online medical/pharmacy product listing & health service web app.  
+A modern online pharmacy & medical product app.  
+<a href="https://mwipopomedicalshop.vercel.app/">
+  <img src="https://placehold.co/600x400?text=Project+Thumbnail" width="70%" />
+</a>  
 🔗 **Live:** https://mwipopomedicalshop.vercel.app/
 
 ---
