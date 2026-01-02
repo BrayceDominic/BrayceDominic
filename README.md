@@ -74,8 +74,8 @@ A modern Non-Governmental Organization website for programs, donations & outreac
 ### 🔹 **UniSafari Hub Official Website**  
 A highly interactive website developed for UniSafari Hub  a non-profit organization dedicated to charity work, cultural exchange, and tourism promotion.  
 <a href="https://unisafarihub.netlify.app/">
-  <img src="https://thumb.monster/site/https://unisafarihub.netlify.app/" alt="UniSafariHub Preview">
-
+<img src="Ifakara.png" width="90%" />
+🔗 **Live:** https://unisafarihub.netlify.app/
 </a>  
 
 
