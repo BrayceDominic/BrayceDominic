@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Engineer | Mobile App Developer | Systems Designer</h3>
 
 <p align="center">
-  🌍 Dar es Salaam, Tanzania &nbsp;•&nbsp;
+  🌍 Arusha, Tanzania &nbsp;•&nbsp;
   📞 +255 717 933 892 &nbsp;•&nbsp;
   📧 braycedominic11@gmail.com
 </p>
