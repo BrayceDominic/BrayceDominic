@@ -64,20 +64,20 @@ I specialize in **web, mobile apps, APIs, and system architecture**.
 ---
 
 ### 🔹 **IFAKARA CHILDREN HEALING HANDS**  
-A modern NGO website for programs, donations & outreach.  
+A modern Non-Governmental Organization website for programs, donations & outreach.  
 <a href="https://www.ichh.or.tz/">
   <img src="Ifakara.png" width="90%" />
 </a>  
 🔗 **Live:** https://www.ichh.or.tz/
 
 ---
+### 🔹 **UniSafari Hub Official Website**  
+A highly interactive website developed for UniSafari Hub  a non-profit organization dedicated to charity work, cultural exchange, and tourism promotion.  
+<a href="https://unisafarihub.netlify.app/">
+  <img src="https://thumb.monster/site/https://unisafarihub.netlify.app/" alt="UniSafariHub Preview">
 
-### 🔹 **Zubeda Sakuru Portfolio**  
-A branded digital presence for an entrepreneur.  
-<a href="https://zubedasakuru.vercel.app/">
-  <img src="download.png" width="90%" />
 </a>  
-🔗 **Live:** https://zubedasakuru.vercel.app/
+
 
 ---
 
@@ -98,7 +98,14 @@ A modern online pharmacy & medical product app.
 🔗 **Live:** https://mwipopomedicalshop.vercel.app/
 
 ---
+### 🔹 **Zubeda Sakuru Portfolio**  
+A branded digital presence for an Simba Sports Club CEO.  
+<a href="https://zubedasakuru.vercel.app/">
+  <img src="download.png" width="90%" />
+</a>  
+🔗 **Live:** https://zubedasakuru.vercel.app/
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
