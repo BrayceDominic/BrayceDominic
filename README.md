@@ -61,6 +61,12 @@ I specialize in **web, mobile apps, APIs, and system architecture**.
 
 # 🌎 Featured Live Projects 
 
+### 🔹 **MEDILINK PLATFORM**  
+A telemedicine platform with AI rich features ensuring transformation of healthcare sector.  
+<a href="https://medicallink.infinityfreeapp.com/?i=1">
+  <img src="Medilink.png" width="90%" />
+</a>  
+🔗 **Live:**https://medicallink.infinityfreeapp.com/?i=1
 ---
 
 ### 🔹 **IFAKARA CHILDREN HEALING HANDS**  
