@@ -1,118 +1,186 @@
-<!-- PREMIUM GITHUB PROFILE README FOR BRAYCE DOMINIC -->
-
-<h1 align="center">👋 Hi, I'm <strong>Brayce Dominic</strong></h1>
-<h3 align="center">Full Stack Engineer | Mobile App Developer | Systems Designer</h3>
+<!-- ===================== HERO SECTION ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+  font=Inter&
+  weight=700&
+  size=30&
+  duration=2800&
+  pause=700&
+  color=38BDF8&
+  center=true&
+  vCenter=true&
+  width=800&
+  lines=Brayce+Dominic;Full+Stack+Engineer;Mobile+App+Developer;Systems+Designer" />
+</p>
 
 <p align="center">
   🌍 Arusha, Tanzania &nbsp;•&nbsp;
-  📞 +255 717 933 892 &nbsp;•&nbsp;
-  📧 braycedominic11@gmail.com
+  📧 braycedominic11@gmail.com &nbsp;•&nbsp;
+  📞 +255 717 933 892
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrayceDominic&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full Stack & Mobile App Developer** who builds scalable backend systems, modern frontend apps, and real-world digital products.  
-I specialize in **web, mobile apps, APIs, and system architecture**.
 
-💡 *“Great engineering is solving real problems with clarity and innovation.”*
+I am a **Full Stack Engineer and Mobile App Developer** focused on building **scalable, secure, and user-centric digital systems**.  
+My work spans **web platforms, mobile applications, APIs, and system architecture**, with a strong emphasis on solving **real-world problems** through clean engineering.
+
+> *Great engineering is not about complexity — it’s about clarity, structure, and impact.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Expertise
 
-### 🎨 Frontend Development
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+### 🎨 Frontend
+HTML • CSS • JavaScript • React • Next.js
 
-### 📱 Mobile App Development
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📱 Mobile
+React Native (Expo) • Flutter • Dart
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### ⚙️ Backend
+Node.js • Express.js • PHP • Laravel
 
-### 🐍 Python & Frameworks
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 🐍 Python Ecosystem
+Python • Django • FastAPI • Flask
 
 ### 🛢 Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+MySQL • PostgreSQL • MongoDB • SQLite
 
-### 🔧 Tools & Testing
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🔧 Tools
+Git • GitHub • Postman • REST APIs
 
 ---
 
-# 🌎 Featured Live Projects 
----
-### 🔹 **MEDILINK PLATFORM**  
-A telemedicine platform with AI rich features ensuring transformation of healthcare sector.  
-<a href="https://medicallink.infinityfreeapp.com/?i=1">
-  <img src="Medilinke.jpg" width="90%" />
-</a>  
-🔗 **Live:**https://medicallink.infinityfreeapp.com/?i=1
----**
+# 🌎 Featured Live Projects (Production Work)
 
-### 🔹 **IFAKARA CHILDREN HEALING HANDS**  
-A modern Non-Governmental Organization website for programs, donations & outreach.  
-<a href="https://www.ichh.or.tz/">
-  <img src="Ifakara.png" width="90%" />
-</a>  
-🔗 **Live:** https://www.ichh.or.tz/
-
----
-### 🔹 **UniSafari Hub Official Website**  
-A highly interactive website developed for UniSafari Hub  a non-profit organization dedicated to charity work, cultural exchange, and tourism promotion.  
-<a href="https://unisafarihub.netlify.app/">
-<img src="unisafari.png" width="90%" />
-🔗 **Live:** https://unisafarihub.netlify.app/
-</a>  
-
+Each project below is **live, deployed, and solving a real problem**.
 
 ---
 
-### 🔹 **Babra’s Kitchen**  
-A professional food ordering and menu listing system.  
-<a href="https://babraskitchen.42web.io/">
-  <img src="st.jpeg" width="90%" />
-</a>  
-🔗 **Live:** https://babraskitchen.42web.io/
+## 🔹 MEDILINK PLATFORM — Telemedicine System
+
+<p align="center">
+  <img src="Medilinke.jpg" width="800"/>
+</p>
+
+**MediLink** is a telemedicine platform designed to improve **access to healthcare services** through digital consultations and intelligent workflows.
+
+### 🧠 Engineering Highlights
+- Secure patient–provider interaction model  
+- Backend architecture designed for extensibility  
+- AI-ready system design for future diagnostics & triage  
+- Focus on healthcare data privacy and scalability  
+
+🔗 **Live System:** https://medicallink.infinityfreeapp.com/?i=1
 
 ---
 
-### 🔹 **Mwipopo Medical Shop**  
-A modern online pharmacy & medical product app.  
-<a href="https://mwipopomedicalshop.vercel.app/">
-<img src="Mwipopo.png" width="90%" />
-</a>  
-🔗 **Live:** https://mwipopomedicalshop.vercel.app/
+## 🔹 Ifakara Children Healing Hands (ICHH) — NGO Platform
+
+<p align="center">
+  <img src="Ifakara.png" width="800"/>
+</p>
+
+A modern NGO website built to support **program visibility, donations, and outreach** for a humanitarian organization operating in Tanzania.
+
+### 🧠 Engineering Highlights
+- Clean, accessible UI for public users  
+- Structured content management  
+- Optimized for performance and reliability  
+- Production deployment with domain & SSL  
+
+🔗 **Live Website:** https://www.ichh.or.tz/
 
 ---
-### 🔹 **Zubeda Sakuru Portfolio**  
-A branded digital presence for an Simba Sports Club CEO.  
-<a href="https://zubedasakuru.vercel.app/">
-  <img src="download.png" width="90%" />
-</a>  
-🔗 **Live:** https://zubedasakuru.vercel.app/
+
+## 🔹 UniSafari Hub — Non-Profit & Tourism Platform
+
+<p align="center">
+  <img src="unisafari.png" width="800"/>
+</p>
+
+An interactive platform for a non-profit organization focused on **charity work, cultural exchange, and tourism promotion**.
+
+### 🧠 Engineering Highlights
+- Responsive and interactive frontend  
+- Brand-aligned UI/UX  
+- Deployed using modern hosting infrastructure  
+- Designed for scalability and content growth  
+
+🔗 **Live Website:** https://unisafarihub.netlify.app/
 
 ---
-## 📊 GitHub Stats
+
+## 🔹 Babra’s Kitchen — Online Food Ordering System
+
+<p align="center">
+  <img src="st.jpeg" width="800"/>
+</p>
+
+A professional food ordering and menu management system enabling customers to browse meals and place orders online.
+
+### 🧠 Engineering Highlights
+- Customer & admin workflows  
+- Backend logic for menu and order handling  
+- Practical CRUD architecture  
+- Designed for small business digitization  
+
+🔗 **Live Website:** https://babraskitchen.42web.io/
+
+---
+
+## 🔹 Mwipopo Medical Shop — Online Pharmacy Platform
+
+<p align="center">
+  <img src="Mwipopo.png" width="800"/>
+</p>
+
+A digital medical shop platform for browsing and accessing pharmaceutical products online.
+
+### 🧠 Engineering Highlights
+- Clean product listing architecture  
+- Scalable frontend deployment (Vercel)  
+- Healthcare-focused UX  
+- Ready for payment & inventory extensions  
+
+🔗 **Live Website:** https://mwipopomedicalshop.vercel.app/
+
+---
+
+## 🔹 Zubeda Sakuru Portfolio — Personal Brand Website
+
+<p align="center">
+  <img src="download.png" width="800"/>
+</p>
+
+A personal branding website developed for a **Simba Sports Club CEO**, showcasing leadership, achievements, and public presence.
+
+### 🧠 Engineering Highlights
+- High-end personal branding UI  
+- Performance-optimized frontend  
+- Professional presentation & layout  
+- Deployed with modern web stack  
+
+🔗 **Live Website:** https://zubedasakuru.vercel.app/
+
+---
+
+## 🧠 Engineering Values
+
+- Clear system architecture  
+- Maintainable, readable code  
+- Real-world workflows over demos  
+- Scalability and security awareness  
+- Product-focused development  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrayceDominic&show_icons=true&theme=tokyonight" />
@@ -127,21 +195,12 @@ A branded digital presence for an Simba Sports Club CEO.
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://x.com/novyrab" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="linkedin.com/in/brayce-dominic-9652a8263" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:braycedominic11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://x.com/novyrab">Twitter</a> •
+  <a href="https://linkedin.com/in/brayce-dominic-9652a8263">LinkedIn</a> •
+  <a href="mailto:braycedominic11@gmail.com">Email</a>
 </p>
 
 ---
 
-## ✨ Quote  
 > *"Good code is like storytelling — structured, meaningful, and crafted with purpose."*
