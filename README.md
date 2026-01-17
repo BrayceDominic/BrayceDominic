@@ -5,11 +5,17 @@
 
 <p align="center">
   🌍 Arusha, Tanzania &nbsp;•&nbsp;
-  📞 +255 717 933 892 &nbsp;•&nbsp;
+  
   📧 braycedominic11@gmail.com
 </p>
 
 ---
+
+<p align="center">
+  <a href="mailto:braycedominic11@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Available+for+Full+Stack+%26+Mobile+Roles;Open+to+Remote+%7C+Onsite+%7C+Freelance;Let%E2%80%99s+Build+Impactful+Systems" />
+  </a>
+</p>
 
 ## 🚀 About Me
 I'm a passionate **Full Stack & Mobile App Developer** who builds scalable backend systems, modern frontend apps, and real-world digital products.  
@@ -20,6 +26,12 @@ I specialize in **web, mobile apps, APIs, and system architecture**.
 ---
 
 ## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Production--Ready-Yes-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API--Driven-REST%20%7C%20JWT-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile--First-React%20Native%20%7C%20Flutter-6366F1?style=for-the-badge"/>
+</p>
 
 ### 🎨 Frontend Development
 ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,7 +76,7 @@ I specialize in **web, mobile apps, APIs, and system architecture**.
 ### 🔹 **MEDILINK PLATFORM**  
 A telemedicine platform with AI rich features ensuring transformation of healthcare sector.  
 <a href="https://medicallink.infinityfreeapp.com/?i=1">
-  <img src="Medilinke.jpg" width="90%" />
+  <img src="Medilinke.jpg" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);" />
 </a>  
 🔗 **Live:**https://medicallink.infinityfreeapp.com/?i=1
 ---**
@@ -72,7 +84,7 @@ A telemedicine platform with AI rich features ensuring transformation of healthc
 ### 🔹 **IFAKARA CHILDREN HEALING HANDS**  
 A modern Non-Governmental Organization website for programs, donations & outreach.  
 <a href="https://www.ichh.or.tz/">
-  <img src="Ifakara.png" width="90%" />
+  <img src="Ifakara.png" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);"/>
 </a>  
 🔗 **Live:** https://www.ichh.or.tz/
 
@@ -80,7 +92,7 @@ A modern Non-Governmental Organization website for programs, donations & outreac
 ### 🔹 **UniSafari Hub Official Website**  
 A highly interactive website developed for UniSafari Hub  a non-profit organization dedicated to charity work, cultural exchange, and tourism promotion.  
 <a href="https://unisafarihub.netlify.app/">
-<img src="unisafari.png" width="90%" />
+<img src="unisafari.png" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);" />
 🔗 **Live:** https://unisafarihub.netlify.app/
 </a>  
 
@@ -90,7 +102,7 @@ A highly interactive website developed for UniSafari Hub  a non-profit organizat
 ### 🔹 **Babra’s Kitchen**  
 A professional food ordering and menu listing system.  
 <a href="https://babraskitchen.42web.io/">
-  <img src="st.jpeg" width="90%" />
+  <img src="st.jpeg" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);" />
 </a>  
 🔗 **Live:** https://babraskitchen.42web.io/
 
@@ -99,7 +111,7 @@ A professional food ordering and menu listing system.
 ### 🔹 **Mwipopo Medical Shop**  
 A modern online pharmacy & medical product app.  
 <a href="https://mwipopomedicalshop.vercel.app/">
-<img src="Mwipopo.png" width="90%" />
+<img src="Mwipopo.png" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);" />
 </a>  
 🔗 **Live:** https://mwipopomedicalshop.vercel.app/
 
@@ -107,7 +119,7 @@ A modern online pharmacy & medical product app.
 ### 🔹 **Zubeda Sakuru Portfolio**  
 A branded digital presence for an Simba Sports Club CEO.  
 <a href="https://zubedasakuru.vercel.app/">
-  <img src="download.png" width="90%" />
+  <img src="download.png" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);"/>
 </a>  
 🔗 **Live:** https://zubedasakuru.vercel.app/
 
@@ -123,6 +135,15 @@ A branded digital presence for an Simba Sports Club CEO.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayceDominic&layout=compact&theme=tokyonight" />
 </p>
 
+## 🧠 Engineering Philosophy
+
+- 🔹 I design systems **before writing code**
+- 🔹 I focus on **scalability, security, and usability**
+- 🔹 I build products meant for **real users in real environments**
+- 🔹 Strong experience deploying apps on **shared hosting, VPS & cloud**
+
+<img src="https://img.shields.io/badge/Thinking-System%20Design-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Real--World%20Impact-black?style=flat-square"/>
 ---
 
 ## 🤝 Connect With Me
