@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:braycedominic11@gmail.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Available+for+Full+Stack+%26+Mobile+Roles;Open+to+Remote+%7C+Onsite+%7C+Freelance;Let%E2%80%99s+Build+Impactful+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=ffb74d&center=true&vCenter=true&width=500&lines=Available+for+Full+Stack+%26+Mobile+Roles;Open+to+Remote+%7C+Onsite+%7C+Freelance;Let%E2%80%99s+Build+Impactful+Systems" />
   </a>
 </p>
 
