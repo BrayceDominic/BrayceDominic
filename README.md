@@ -80,6 +80,14 @@ A telemedicine platform with AI rich features ensuring transformation of healthc
 🔗 **Live:**https://medicallink.infinityfreeapp.com/?i=1
 ---**
 
+###  **VOLUNTRACK MOBILE APP**  
+A modern mobile app that streamlines organization's management on volunteers (or interns) with a bundle of features including QR CODE attendance tracking.  
+<a href="https://github.com/BrayceDominic/VolunTrack">
+  <img src="merge.png" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);" />
+</a>  
+🔗 **Live:** Soon Deployed to App Store and Playstore. 
+---**
+
 ###  **IFAKARA CHILDREN HEALING HANDS**  
 A modern Non-Governmental Organization website for programs, donations & outreach.  
 <a href="https://www.ichh.or.tz/">
