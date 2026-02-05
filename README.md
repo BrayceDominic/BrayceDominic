@@ -114,7 +114,7 @@ A professional food ordering and menu listing system.
 🔗 **Live:** https://babraskitchen.42web.io/
 
 ---
-###  **Mwipopo Medical Shop**  
+###  **Amso Foundation**  
 A creative website made by Next.js for a charity based foundation known as AMSO Foundation.  
 <a href="https://amsofoundation.netlify.app/">
 <img src="Amso.jpg" width="75%" style="border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.15);" />
