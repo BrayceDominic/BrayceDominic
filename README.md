@@ -1,17 +1,16 @@
 <div align="center">
 
-```
-  ██████╗ ██████╗  █████╗ ██╗   ██╗ ██████╗███████╗
-  ██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝
-  ██████╔╝██████╔╝███████║ ╚████╔╝ ██║     █████╗
-  ██╔══██╗██╔══██╗██╔══██║  ╚██╔╝  ██║     ██╔══╝
-  ██████╔╝██║  ██║██║  ██║   ██║   ╚██████╗███████╗
-  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚══════╝
-```
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=ffb74d&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Brayce+Dominic+%F0%9F%91%8B;Full+Stack+%26+Mobile+Engineer;Available+for+Remote+%7C+Freelance+%7C+Onsite" alt="Typing SVG" />
+</h1>
 
-**Full Stack Engineer · Mobile App Developer · Systems Designer**
+<p><strong>Full Stack Engineer · Mobile App Developer · Systems Designer</strong></p>
 
-`Arusha, Tanzania` · [braycedominic.com](https://braycedominic.com) · [braycedominic11@gmail.com](mailto:braycedominic11@gmail.com)
+<p>
+  <code>Arusha, Tanzania</code> ·
+  <a href="https://braycedominic.com">braycedominic.com</a> ·
+  <a href="mailto:braycedominic11@gmail.com">braycedominic11@gmail.com</a>
+</p>
 
 </div>
 
@@ -19,47 +18,55 @@
 
 ## Who I Am
 
-I build systems that work — not just products that look good.  
-My focus is on **scalable architecture, clean APIs, and real-world usability** across web and mobile.  
+I build systems that work — not just products that look good.
+My focus is on **scalable architecture, clean APIs, and real-world usability** across web and mobile.
 Based in Tanzania, building for the world.
 
 > *"Great engineering is solving real problems with clarity and innovation."*
 
 ---
 
-## What I Work With
+## Tech Stack
 
-**Frontend**
-`HTML5` `CSS3` `JavaScript` `React` `Next.js`
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 
-**Mobile**
-`React Native` `Expo` `Flutter` `Dart`
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend**
-`Node.js` `Express` `PHP` `Laravel` `Python` `Django` `FastAPI` `Flask`
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Databases**
-`PostgreSQL` `MySQL` `MongoDB` `SQLite`
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-044A64?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**
-`Git` `GitHub` `Postman` `REST APIs` `JWT`
+### Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## Featured Work
 
-All live projects, case studies, and screenshots are on my portfolio:
-
-### 🌐 [braycedominic.com](https://braycedominic.com)
-
-Highlights include:
-- **MediLink** — AI-powered telemedicine platform
-- **VolunTrack** — Mobile app for volunteer & intern management with QR attendance
-- **ICHH** — NGO website for programs, donations & outreach
-- **UniSafari Hub** — Non-profit site for cultural exchange & tourism
-- **Mwipopo Medical Shop** — Online pharmacy & product ordering app
-- **Amso Foundation** — Charity foundation website in Next.js
-- **Babra's Kitchen** — Food ordering & menu listing system
+Live projects, case studies & screenshots — all at **[braycedominic.com](https://braycedominic.com)**
 
 ---
 
@@ -70,14 +77,9 @@ Highlights include:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrayceDominic&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-## How I Think
-
-- Design the system before writing the first line
-- Security and scalability are not afterthoughts
-- Code is shipped to real users in real environments — build accordingly
-- Clarity in architecture > cleverness in syntax
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayceDominic&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
@@ -85,10 +87,10 @@ Highlights include:
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-braycedominic.com-000000?style=flat-square&logo=vercel)](https://braycedominic.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayce_Dominic-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/brayce-dominic-9652a8263)
-[![Twitter](https://img.shields.io/badge/Twitter-@novyrab-1DA1F2?style=flat-square&logo=twitter)](https://x.com/novyrab)
-[![Email](https://img.shields.io/badge/Email-braycedominic11@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:braycedominic11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-braycedominic.com-000000?style=for-the-badge&logo=vercel)](https://braycedominic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayce_Dominic-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/brayce-dominic-9652a8263)
+[![Twitter](https://img.shields.io/badge/Twitter-@novyrab-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/novyrab)
+[![Email](https://img.shields.io/badge/Email-braycedominic11@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:braycedominic11@gmail.com)
 
 </div>
 
