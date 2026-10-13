@@ -71,23 +71,6 @@ Live projects, case studies & screenshots — all at **[braycedominic.com](https
 ---
 
 
-## GitHub Contributions
-
-<div align="center">
-
-![Official GitHub Contribution Total](./assets/github-contributions.svg)
-
-<a href="https://github.com/BrayceDominic">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BrayceDominic&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" alt="GitHub Statistics" />
-</a>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrayceDominic&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayceDominic&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
-
 ---
 
 ## Let's Connect
